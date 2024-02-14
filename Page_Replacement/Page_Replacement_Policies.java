@@ -1,8 +1,4 @@
 /*
-Name: David Castrejon
-Student ID: 220142365
-Class: CSC 139 Section 2
-HW: Assignment 4
 Tested on: macOS, Linux
  */
 
